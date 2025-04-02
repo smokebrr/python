@@ -6,11 +6,11 @@ valor = int(input("Digite um valor para conversao em BRL"))
 
 match opcao:
     case "USD":
-        print(f"USD: {valor*5.7}")
+        print(f"USD: {valor/5.7}")
     case "EUR":
-        print(f"EUR: {valor*6.1}")
+        print(f"EUR: {valor/6.1}")
     case "GBP":
-        print(f"GBP: {valor*7.4}")
+        print(f"GBP: {valor/7.4}")
     case _:
         print(f"opcao invalida")
     
