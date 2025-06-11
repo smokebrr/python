@@ -1,0 +1,1 @@
+# Calcule a média de todos os elementos de uma matriz.

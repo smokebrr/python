@@ -1,0 +1,1 @@
+#Mostre os elementos da diagonal principal de uma matriz quadrada.

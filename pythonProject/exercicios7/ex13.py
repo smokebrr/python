@@ -1,0 +1,1 @@
+# Faça um programa que leia uma matriz 4x4 e diga quantos elementos estão acima da média.

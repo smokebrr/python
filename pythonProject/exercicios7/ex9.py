@@ -1,0 +1,1 @@
+# Some os elementos de cada coluna de uma matriz e mostre os resultados.

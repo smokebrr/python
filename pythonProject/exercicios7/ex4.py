@@ -1,0 +1,1 @@
+# Mostre os elementos da diagonal secundária de uma matriz quadrada.    

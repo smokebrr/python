@@ -1,0 +1,1 @@
+#Faça uma função que recebe uma lista e retorna outra com os elementos em ordem reversa (sem usar .reverse() ou [::-1]).

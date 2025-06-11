@@ -1,0 +1,1 @@
+# Transponha uma matriz 3x3 (trocar linhas por colunas).
